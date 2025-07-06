@@ -1,0 +1,48 @@
+[
+    {
+      "Employee ID": "E001",
+      "Name": "Alice Chen",
+      "Date": "2025-07-06",
+      "What did you work on?": "Refactored the payment-service API and wrote unit tests.",
+      "Biggest blocker this week?": "Waiting on DevOps to provision the new staging cluster.",
+      "What are we doing right as a company?": "Clear sprint goals and supportive code-review culture.",
+      "What are we doing wrong and you would like to change?": "Need a more formal QA sign-off before releases."
+    },
+    {
+      "Employee ID": "E002",
+      "Name": "Raj Patel",
+      "Date": "2025-07-06",
+      "What did you work on?": "Designed initial wireframes for the mobile dashboard and ran user-testing sessions.",
+      "Biggest blocker this week?": "UI library upgrade caused unexpected styling regressions.",
+      "What are we doing right as a company?": "Leadership gives design time in roadmap instead of rushing features.",
+      "What are we doing wrong and you would like to change?": "Cross-time-zone meetings too early for APAC; suggest rotating times."
+    },
+    {
+      "Employee ID": "E003",
+      "Name": "Maria Gómez",
+      "Date": "2025-07-06",
+      "What did you work on?": "Implemented batch-export feature for analytics and wrote documentation.",
+      "Biggest blocker this week?": "Data schema changes weren’t communicated; had to re-align columns.",
+      "What are we doing right as a company?": "Great knowledge-sharing sessions every Friday.",
+      "What are we doing wrong and you would like to change?": "Need clearer ownership on data pipelines to avoid overlaps."
+    },
+    {
+      "Employee ID": "E004",
+      "Name": "Liam O’Connor",
+      "Date": "2025-07-06",
+      "What did you work on?": "Ran load tests, tuned PostgreSQL indices, improved query latency by 25 %.",
+      "Biggest blocker this week?": "Slow PR reviews when multiple DB migrations hit at once.",
+      "What are we doing right as a company?": "Engineering off-sites foster alignment and motivation.",
+      "What are we doing wrong and you would like to change?": "Product specs sometimes arrive after dev starts; earlier hand-off would help."
+    },
+    {
+      "Employee ID": "E005",
+      "Name": "Sara Ibrahim",
+      "Date": "2025-07-06",
+      "What did you work on?": "Kicked off marketing automation workflow and drafted newsletter copy.",
+      "Biggest blocker this week?": "Legal review delayed the newsletter send-out by two days.",
+      "What are we doing right as a company?": "Open feedback culture—my campaign ideas get real consideration.",
+      "What are we doing wrong and you would like to change?": "Budget approvals still manual; would like clearer thresholds for auto-approval."
+    }
+  ]
+  
