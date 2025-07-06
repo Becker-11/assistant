@@ -41,6 +41,7 @@ export default function Home() {
         },
       ]);
     } catch (err) {
+      console.error(err);
       setLog((prev) => [
         ...prev,
         { q, answer: 'Network error.', sources: [] },
